@@ -1,6 +1,8 @@
 # Laravel Boost - Augment Code Extension
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<a href="https://packagist.org/packages/gldrenthe89/laravel-boost-augment-code-extension"><img src="https://img.shields.io/packagist/dt/gldrenthe89/laravel-boost-augment-code-extension?v=1" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/gldrenthe89/laravel-boost-augment-code-extension"><img src="https://img.shields.io/packagist/v/gldrenthe89/laravel-boost-augment-code-extension?v=1" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/gldrenthe89/laravel-boost-augment-code-extension"><img src="https://img.shields.io/packagist/l/gldrenthe89/laravel-boost-augment-code-extension?v=1" alt="License"></a>
 
 ## Introduction
 
