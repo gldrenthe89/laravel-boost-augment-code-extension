@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace GeertLucas\LaravelBoostAugmentCode;
+namespace Gldrenthe89\LaravelBoostAugmentCode;
 
 use Laravel\Boost\Contracts\Agent;
 use Laravel\Boost\Install\CodeEnvironment\CodeEnvironment;
