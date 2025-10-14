@@ -38,4 +38,4 @@ php artisan boost:install
 
 ## License
 
-Laravel Boost is open-sourced software licensed under the [MIT license](LICENSE.md).
+Laravel Boost - Augment Code Extension is open-sourced software licensed under the [MIT license](LICENSE.md).
