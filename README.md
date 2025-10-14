@@ -23,7 +23,7 @@ for [Laravel Boost](https://github.com/laravel/boost).
 Install the package via Composer as a development dependency:
 
 ```bash
-composer require --dev gldrenthe89/laravel-boost-augment-code-extension
+composer require --dev gldrenthe89/laravel-boost-augment-code-extension "^1.0"
 ```
 
 ### Step 2: Install Laravel Boost
