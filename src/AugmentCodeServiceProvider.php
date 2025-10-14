@@ -2,8 +2,9 @@
 
 declare(strict_types=1);
 
-namespace GeertLucas\LaravelBoostAugmentCode;
+namespace Gldrenthe89\LaravelBoostAugmentCode;
 
+use GeertLucas\LaravelBoostAugmentCode\AugmentCode;
 use Illuminate\Support\ServiceProvider;
 use Laravel\Boost\Boost;
 
