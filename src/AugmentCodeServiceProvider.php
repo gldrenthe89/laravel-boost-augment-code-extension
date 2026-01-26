@@ -11,6 +11,6 @@ class AugmentCodeServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
-        Boost::registerCodeEnvironment('augment_code', AugmentCode::class);
+        Boost::registerAgent('augment_code', AugmentCode::class);
     }
 }
