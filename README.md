@@ -11,9 +11,9 @@ for [Laravel Boost](https://github.com/laravel/boost).
 
 ## Requirements
 
-- PHP 8.1 or higher
-- Laravel 10.0 or higher
-- Laravel Boost 1.4 or higer
+- PHP 8.2 or higher
+- Laravel 11.0 or higher
+- Laravel Boost 2.0 or higher
 - Augment Code or Auggie (Augment CLI)
 
 ## Installation
@@ -23,7 +23,7 @@ for [Laravel Boost](https://github.com/laravel/boost).
 Install the package via Composer as a development dependency:
 
 ```bash
-composer require --dev gldrenthe89/laravel-boost-augment-code-extension "^1.0"
+composer require --dev gldrenthe89/laravel-boost-augment-code-extension "^2.0"
 ```
 
 ### Step 2: Install Laravel Boost

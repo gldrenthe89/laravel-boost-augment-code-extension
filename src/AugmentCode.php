@@ -4,11 +4,11 @@ declare(strict_types=1);
 
 namespace Gldrenthe89\LaravelBoostAugmentCode;
 
-use Laravel\Boost\Contracts\Agent;
-use Laravel\Boost\Install\CodeEnvironment\CodeEnvironment;
+use Laravel\Boost\Contracts\SupportsGuidelines;
+use Laravel\Boost\Install\Agents\Agent;
 use Laravel\Boost\Install\Enums\Platform;
 
-class AugmentCode extends CodeEnvironment implements Agent
+class AugmentCode extends Agent implements SupportsGuidelines
 {
     public function name(): string
     {
